@@ -1,0 +1,18 @@
+.card{
+    background-color: cornflowerblue;
+    
+}
+
+form{
+    background-color: grey;
+    width:300px ;
+    
+}
+.card-body{
+    background-color: rgb(189, 182, 182);
+    
+}
+
+.fa-whatsapp{
+    color: #20e020;
+}
